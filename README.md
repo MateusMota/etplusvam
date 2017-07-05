@@ -1,2 +1,25 @@
 # etplusvam
-Experiment with the purpose of data collection for attention visual models (ET+VAM), LaPS project, UFPA.
+Experiment which the purpose is to collect data for visual attention models (ET+VAM), LaPS project, UFPA.
+
+
+For reproduction purposes, the required setup is listed below:
+1) A webcam (in this project, it was used a Logitech C920 Pro HD)
+2) Tobii EyeX (the Eye/Gaze tracking)
+3) Psychopy (http://www.psychopy.org)
+
+Experimental steps:
+
+If you don't have the EyeX interface installed/configured, follow the steps below:
+
+1) Connect the EyeX device in the USB 3.0 port
+2) If the computer doesn't recognized the EyeX device or the Eyex drives, follow the next steps.
+3) Download the EyeX interface at http://www.tobii.com/eyex-setup
+3) Disconnect and connect the device again.
+4) If the error persists:
+a)Acess, in Windows, the Control panel\Hardware and Songs\Device manager
+b)Search for the EyeX device
+c)Execute the driver updates in Properties
+
+
+      
+
