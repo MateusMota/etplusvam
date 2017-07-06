@@ -22,7 +22,7 @@ c)Execute the driver updates in Properties
 
 After of installation/configured of EyeX interface, is necessary download the Microsoft Visual Studio, then follow the steps of EyeX setting , according the "Walkthrough: setting up a C/C++ project for the EyeX C API " tutorial ( http://developer.tobii.com/walkthrough-setting-cc-project-eyex-c-api/ ). Is avaiable to EyeX a C/C++ library and examples codes to data collection. To collect data, it was used a "MinimalGazeDataStream" code (developer.tobii.com/c-sample-walk-minimalgazedatastream/) with some changes present in file MinimalGazeDataStream.txt . 
 
-The next step is configure the visual stimuli experiment in Psychopy (http://www.psychopy.org/) using the visual_attention.psyexp. The images created in this experiment for calibration was generated using OpenCV (http://opencv.org/), the others images was used from the Google database (warmup) and from Toyama database (http://ivc.univ-nantes.fr/en/databases/IRCCyN_IVC_Toyama_LCD/)
+The next step is configure the visual stimuli experiment in Psychopy (http://www.psychopy.org/) using the visual_attention.psyexp. The images created in this experiment for calibration was generated using OpenCV (http://opencv.org/), the others images was used from the Google database (warmup) and from Toyama database (http://ivc.univ-nantes.fr/en/databases/IRCCyN_IVC_Toyama_LCD/). It is also important, to experiment compilation, change the images path and use the csv file containing the experiment conditions.
 
 
       
