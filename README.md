@@ -20,7 +20,7 @@ a)Acess, in Windows, the Control panel\Hardware and Songs\Device manager
 b)Search for the EyeX device
 c)Execute the driver updates in Properties
 
-After of installation/configured of EyeX interface, is necessary download the Microsoft Visual Studio, then follow the steps of EyeX setting , according the "Walkthrough: setting up a C/C++ project for the EyeX C API " tutorial ( http://developer.tobii.com/walkthrough-setting-cc-project-eyex-c-api/ ). Is avaiable to EyeX a C/C++ library and examples codes to data collection. To collect data, it was used a "MinimalGazeDataStream" code (developer.tobii.com/c-sample-walk-minimalgazedatastream/) with some changes present in file MinimalGazeDataStream.txt .
+After of installation/configured of EyeX interface, is necessary download the Microsoft Visual Studio, then follow the steps of EyeX setting , according the "Walkthrough: setting up a C/C++ project for the EyeX C API " tutorial ( http://developer.tobii.com/walkthrough-setting-cc-project-eyex-c-api/ ). Is avaiable to EyeX a C/C++ library and examples codes to data collection. To collect data, it was used a "MinimalGazeDataStream" code (http://developer.tobii.com/c-sample-walk-minimalgazedatastream/) with some changes present in file MinimalGazeDataStream.txt .
 
 
       
